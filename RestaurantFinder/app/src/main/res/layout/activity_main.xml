@@ -8,7 +8,14 @@
     <!-- TODO: MAIN HOMEPAGE LAYOUT -->
     <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/search_button"
+            android:background="#FAFAFA"></ImageButton>
 
         <EditText
             android:layout_width="240dp"

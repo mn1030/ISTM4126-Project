@@ -6,5 +6,15 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- TODO: MAIN HOMEPAGE LAYOUT -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:hint="What do you want to eat?"></EditText>
+        
+    </LinearLayout>
 
 </LinearLayout>

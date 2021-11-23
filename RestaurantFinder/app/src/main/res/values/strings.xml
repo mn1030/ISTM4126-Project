@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Restaurant Finder</string>
+    <string-array name="cuisineTypes">
+        <item>Cafe</item>
+        <item>Asian</item>
+        <item>Pizza</item>
+        <item>Food Truck</item>
+    </string-array>
+
+    <string-array name="dorms">
+        <item>Shenkman</item>
+    </string-array>
 </resources>

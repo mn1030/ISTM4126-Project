@@ -1,13 +1,11 @@
 public class Restaurant{
-  /*
 
-private Point (for calculating distance??) or Google Map coordinates
-int x
-int y
-^^^ figure out how to do this
+      /* implements OnMapReadyCallback
+
+    LatLng for Restaurant
 
 
-  */
+      */
 
     private String name; //of restaurant
     private String [] menu; //menu items
@@ -30,6 +28,8 @@ int y
         menu = new String [setMenu.length];
         System.arraycopy(setMenu, 0, menu, 0, setMenu.length);
     }
+
+    //TODO: ADD GETTERS FOR EVERYTHING
 
 
 }

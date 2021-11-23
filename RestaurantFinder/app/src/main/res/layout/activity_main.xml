@@ -1,14 +1,15 @@
-<LinearLayout
-    android:orientation="vertical"
+<LinearLayout android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:layout_marginTop="10dp"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <!-- TODO: MAIN HOMEPAGE LAYOUT -->
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:padding="16dp"
         android:orientation="horizontal">
 
         <ImageButton
@@ -16,12 +17,92 @@
             android:layout_height="wrap_content"
             android:src="@drawable/search_button"
             android:background="#FAFAFA"></ImageButton>
+        <!-- TODO: android:onClick -->
 
-        <EditText
-            android:layout_width="240dp"
-            android:layout_height="wrap_content"
-            android:hint="What do you want to eat?"></EditText>
+        <Spinner
+            android:id="@+id/dormSpinner"
+            android:layout_width="320dp"
+            android:layout_height="52dp"
+
+            android:entries="@array/dorms"
+            app:layout_constraintBottom_toTopOf="@+id/textView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.6"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></Spinner>
+
+
         
     </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Switch
+            android:id="@+id/switch_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textOn="GWorld"
+            android:textOff="Other Payment"
+            android:onClick="switchClick"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cuisine Type"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_marginLeft="30dp"/>
+        <Spinner
+            android:id="@+id/types"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:entries="@array/cuisineTypes"
+            app:layout_constraintBottom_toTopOf="@+id/textView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.6"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="X miles"
+            android:id="@+id/percentTextView"
+
+            android:layout_gravity="center_vertical|right"/>
+
+        <SeekBar
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:id="@+id/distSeekBar"
+            android:indeterminate="false"
+
+            android:max="30"
+            android:progress="15"
+            android:layout_gravity="fill_horizontal"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/restaurantList"
+        android:layout_width="400dp"
+        android:layout_marginLeft="5dp"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+
+
 
 </LinearLayout>

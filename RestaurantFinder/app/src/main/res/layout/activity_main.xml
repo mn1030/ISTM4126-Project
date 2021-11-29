@@ -12,24 +12,16 @@
         android:padding="16dp"
         android:orientation="horizontal">
 
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/search_button"
-            android:background="#FAFAFA"></ImageButton>
+        <Button
+            android:layout_width="379dp"
+            android:layout_height="75dp"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:background="@drawable/rounded_corner"
+
+            android:text="SEARCH"></Button>
         <!-- TODO: android:onClick -->
 
-        <Spinner
-            android:id="@+id/dormSpinner"
-            android:layout_width="320dp"
-            android:layout_height="52dp"
-
-            android:entries="@array/dorms"
-            app:layout_constraintBottom_toTopOf="@+id/textView"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.6"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"></Spinner>
 
 
         
@@ -37,13 +29,24 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/payment_method"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="GWorld"
+            android:textSize="17sp"/>
 
         <Switch
             android:id="@+id/switch_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+
+
             android:textOn="GWorld"
             android:textOff="Other Payment"
             android:onClick="switchClick"/>
@@ -52,12 +55,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Cuisine Type"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:layout_marginLeft="30dp"/>
+            android:textSize="17sp"
+            android:layout_marginLeft="20dp"/>
+
         <Spinner
             android:id="@+id/types"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
 
             android:entries="@array/cuisineTypes"
             app:layout_constraintBottom_toTopOf="@+id/textView"
@@ -70,39 +75,39 @@
 
     <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
 
         <TextView
-            android:layout_width="wrap_content"
+            android:id="@+id/distance"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="X miles"
-            android:id="@+id/percentTextView"
-
-            android:layout_gravity="center_vertical|right"/>
+            android:text="X miles from Duques"
+            android:textAlignment="center"
+             />
 
         <SeekBar
-            android:layout_width="300dp"
-            android:layout_height="40dp"
             android:id="@+id/distSeekBar"
-            android:indeterminate="false"
+            android:layout_width="273dp"
+            android:layout_height="40dp"
+            android:layout_gravity="fill_horizontal"
 
-            android:max="30"
-            android:progress="15"
-            android:layout_gravity="fill_horizontal"/>
+            android:indeterminate="false"
+            android:max="10"
+            android:progress="5" />
 
     </LinearLayout>
 
     <ListView
         android:id="@+id/restaurantList"
         android:layout_width="400dp"
-        android:layout_marginLeft="5dp"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="20dp">
 
     </ListView>
-
-
 
 
 </LinearLayout>

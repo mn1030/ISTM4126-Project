@@ -42,8 +42,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-
-
+            android:thumbTint="#f00"
+            android:trackTint="#f00"
             android:textOn="GWorld"
             android:textOff="Other Payment"
             android:onClick="switchClick"/>
@@ -81,7 +81,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="X miles from Duques"
+            android:text="5 miles from Duques"
             android:textAlignment="center"
              />
 
@@ -90,7 +90,8 @@
             android:layout_width="273dp"
             android:layout_height="40dp"
             android:layout_gravity="fill_horizontal"
-
+            android:thumbTint="#FF0000"
+            android:progressTint="#FF0000"
             android:indeterminate="false"
             android:max="10"
             android:progress="5" />
@@ -102,7 +103,8 @@
         android:layout_width="400dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="7dp"
-        android:layout_marginTop="20dp">
+        android:layout_marginTop="20dp"
+        >
 
     </ListView>
 

@@ -19,7 +19,8 @@
             android:textSize="20sp"
             android:textColor="@color/white"
             android:background="@drawable/rounded_corner"
-            android:text="SEARCH"/>
+            android:text="SEARCH"
+            android:onClick="buttonOnClick"/>
         <!-- TODO: button functionality -->
         
     </LinearLayout>
@@ -38,7 +39,7 @@
             android:textSize="17sp"/>
 
         <Switch
-            android:id="@+id/switch_view"
+            android:id="@+id/gworld_switch"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
@@ -76,7 +77,7 @@
         android:layout_marginTop="20dp">
 
         <TextView
-            android:id="@+id/distance"
+            android:id="@+id/distTextView"
             android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
@@ -93,6 +94,7 @@
             android:thumbTint="#FF0000"
             android:progressTint="#FF0000"
             android:indeterminate="false"
+
             android:max="10"
             android:progress="5" />
 

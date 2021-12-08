@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Restaurant Finder</string>
+    <string name="app_name">com.example.restaurantfinder.MainActivity.Restaurant Finder</string>
     <string-array name="cuisineTypes">
 
         <item>American</item>

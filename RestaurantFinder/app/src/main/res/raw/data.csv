@@ -1,0 +1,179 @@
+Mile_Category_<X,Cuisine,Restaurant_Name,Distance,On_campus,Gworld,Menu,Hours
+1,American,Carvings,0.3,yes,yes,https://www.carvingsdc.com/menu,sun-wed: 8am-12am /Ê thurs: 8am-2am /Ê fri-sat: 8am-3am
+1,American,Devon & Blakely,0.2,yes,yes,http://www.devonandblakely.com/wp-content/uploads/2019/12/Devon_Menu_11.19.pdf,mon-fri: 7am-4pm /Ê sat-sun: closed
+1,American,Panera Bread,0.2,yes,yes,https://www.panerabread.com/en-us/menu.html,fri-wed: 7am-10pm /Ê thurs: 7am-11:45pm
+1,American,McDonalds,0.6,no,no,https://www.mcdonalds.com/us/en-us/full-menu.html,sat-tues: 5am-11pm /Ê wed-fri: 5am-12am
+1,American,Shake Shack,0.7,no,no,https://shakeshack.com/home#/11689,sun-thurs: 11am-10pm /Ê fri-sat: 11am-11pm
+1,Chinese,Magic Gourd,0.2,yes,yes,https://order.magicgourd528.com/menu,mon-sat: 11am-9pm /Ê sun: closed
+1,Chinese,1 Fish 2 Fish,0.4,no,no,https://www.dconefishtwofish.com/menu.aspx,mon-fri: 11am-10:30pm /Ê sat-sun: 12pm-11pm
+1,Chinese,City Lights of China,1,no,no,http://citylightsofchinawashington.com/,mon-sun: 11am-9:30pm
+1,Chinese,Asia 54,0.8,no,yes,http://www.asia54washington.com/?utm_source=gmb&utm_medium=menu,mon-fri: 11am-10pm /Ê sat: 12-11pm /Ê sun: 12-10pm
+1,Chinese,New Dynasty,0.8,no,no,http://www.newdynasty-dc.com/?utm_source=gmb&utm_medium=menu,mon-fri: 11:30am-9:30pm /Ê sat-sun: 12pm-9:30pm
+1,Japanese,Toryumon,0.4,no,yes,https://www.toryumonjapanese.com/,mon-fri: 11am-3pm; 5pm-9:30pm /Ê sat-sun: 12-11pm
+1,Japanese,Poki DC,0.6,no,no,https://pokidc.com/menu,mon-sat: 11:30am-8:30pm /Ê sun: closed
+1,Japanese,Buredo,1,no,yes,https://eatburedo.com/,mon-fri: 10:30am-9pm /Ê sat-sun: 10:30am-7pm
+1,Japanese,Asia 54,0.8,no,yes,http://www.asia54washington.com/?utm_source=gmb&utm_medium=menu,mon-fri: 11am-10pm /Ê sat: 12-11pm /Ê sun: 12-10pm
+1,Japanese,Umaya DC,1,no,no,https://www.umayadc.com/food-menus/,mon-fri: 11:30am-2:30pm; 4:30pm-10pm /Ê sat-sun: 11:30am-10pm
+1,Korean,Poppabox,0.4,yes,yes,http://places.singleplatform.com/poppabox/menu?ref=google,mon-fri: 7am-9pm /Ê sat: 11am-9pm /Ê sun: closed
+1,Korean,Capitol Grounds CafŽ,0.7,no,no,http://capitolgroundscafedc.com/,mon-fri: 7am-4pm /Ê sat-sun: closed
+1,Korean,Rice Bar 15th St.,1,no,no,http://ricebardc.com/,mon-fri: 10:30am-3pm /Ê sat-sun: closed
+1,Italian,Il Canale,0.7,no,no,http://ilcanale.com/our-menu/,mon-thurs: 11am-10:30pm /Ê fri-sat: 11am-11pm /Ê sun: 11am-10pm
+1,Italian,Taylor Gourmet,0.5,no,no,http://places.singleplatform.com/taylor-gourmet-6/menu?ref=google,mon-fri: 11am-7pm /Ê sat-sun: closed
+1,Italian,Angolo Ristorante Italiano,0.7,no,no,http://angolodc.com/,sun-thurs: 11am-12am /Ê fri-sat: 11am-1am
+1,Italian,Buca di Beppo,1,no,no,https://www.bucadibeppo.com/menu/?y_source=1_NDgxNzYwMi03MTUtbG9jYXRpb24ubWVudV91cmw%3D,sun-wed: 11am-9:30pm /Ê fri-sat: 11am-10pm
+1,Italian,Pizza Movers and Calzones,1,no,yes,https://www.pizzamover.com/order/,mon-tues: 11am-2am /Ê wed-thurs /Ê sun: 11am-3am /Ê fri-sat: 11am-4:20am
+1,Mexican,Baja Fresh,0.4,no,yes,https://order.bajafresh.com/menu/baja-fresh-30474/,mon-fri: 11am-8pm /Ê sat: 11am-5pm /Ê sun: closed
+1,Mexican,Guapos,0.6,no,no,https://prod-client.waitbusters.com/online-ordering/5dcec037c9f99a1270dc4d49/menu,mon-fri: 11:30am-11pm /Ê fri: 11:30am-12am /Ê sat: 11am-12am /Ê sun: 11am-11pm
+1,Mexican,El Centro,0.9,no,no,http://places.singleplatform.com/el-centro-df-0/menu#menu_3394635,mon-thurs: 4-10pm /Ê fri: 11am-3am /Ê sat:11am-4pm; 5pm-3am /Ê sun: 11am-10pm
+1,Mexican,Los Cuates,1,no,yes,http://orderloscuatesdc.com/,sun-thurs: 11:30am-10pm /Ê fri-sat: 11:30am-11pm
+1,Mexican,Sol,0.08,yes,yes,http://places.singleplatform.com/sol-mexican-grill-4/menu?ref=google,mon-thurs: 11am-10pm /Ê fri: 11am-9pm /Ê sat: 12-8pm /Ê sun: 12-9pm
+1,Thai,Bua Thai,1,no,no,https://buadc.com/dinner-menu,mon-fri: 11:30am-3pm; 4pm-10pm /Ê sat-sun: 12-10pm
+1,Thai,Thai Chef Restaurant,1.1,no,no,https://thaichefdc.com/menu/,sun-thurs: 11:30am-9:30pm /Ê fri-sat: 11:30am-10pm
+1,Thai,Charm Thai,0.4,no,no,https://qmenu.us/#/charm-thai-washington,sun-thurs: 11am-10:30pm /Ê fri-sat: 11:30am-11pm
+1,Thai,Mai Thai,0.9,no,no,http://www.maithaigeorgetown.com/,mon-fri: 12-10pm /Ê sat-sun: 12-10:30pm
+1,Thai,Soi 38,0.5,no,no,http://www.soi38dc.com/menus,sun-thurs: 11am-10pm /Ê fri-sat: 11am-10:30pm
+1,Mediterranean,Grk,0.2,yes,yes,http://grkfresh.com/,mon-fri: 11am-5pm /Ê sat-sun: closed
+1,Mediterranean,Greek Deli,0.5,no,no,https://greekdelidc.com/menu/,mon-fri: 11am-3pm /Ê sat-sun: closed
+1,Mediterranean,Moby Dick,0.8,no,no,http://places.singleplatform.com/moby-dicks-house-of-kabob/menu?ref=google,mon-fri: 11am-9pm /Ê sat: 12-9pm /Ê sun: 12-8pm
+1,Mediterranean,Iron Gate,0.8,no,no,https://www.irongaterestaurantdc.com/,mon: closed /Ê tues-thurs: 5-9pm /Ê fri-sat: 3-10pm /Ê sun: 11am-2pm; 5-9pm
+1,Mediterranean,Komi,1,no,no,https://happygyrotogo.square.site/,tues-sat: 5:30-8pm /Ê sun-mon: closed
+1,Indian,Bindaas,0.3,yes,yes,https://www.bindaasdc.com/foggybottom,tues-thurs; sun: 11:30am-9pm /Ê fri-sat: 11:30am-9:30pm
+1,Indian,Rasika,0.5,no,no,http://www.rasikarestaurant.com/westend/,mon: 11:30am-2:30pm; 5-9:30pm /Ê tues-fri: 11:30pm-2:30pm; 5-10:30pm /Ê sat: 4-10:30pm /Ê sun: 11am-2:30pm; 4-9:30pm
+1,Indian,The Bombay Club,0.6,no,no,http://bombayclubdc.com/?wprmm-routing=export&menu_id=3,mon-thurs: 11:30am-2:30pm; 5-9:15pm /Ê fri: 11:30pm-2:30pm; 5-9:45pm /Ê sat: 5-9:45pm /Ê sun: closed
+1,Indian,Flavors of India,0.5,no,yes,https://flavorsofindiatogo.com/menu/,mon-thurs: 11:30am-10pm /Ê fri-sat: 11:30am-10:30pm /Ê sun: 11:30am-9:45pm
+1,Indian,Taj of India,0.7,no,yes,http://ordertajofindia.com/,mon-fthurs: 11:30am-3pm; 5-10:30pm /Ê fri: 5-11pm /Ê sat: 11:30am-11pm /Ê sun: 11:30am-10pm
+3,American,The Fainting Goat,2.2,no,no,http://places.singleplatform.com/fainting-goat/menu?ref=google,mon-tues: closed /Ê wed-thurs: 5-10pm /Ê fri-sat: 11am-3pm; 5pm-12am /Ê sun: 11am-3pm; 5-10pm
+3,American,Rhodeside Grill,2.5,no,no,https://digitalmarketing.blob.core.windows.net/10061/files/Rhodeside_MainMenu_R57_March2021.pdf,mon-fri: 11am-2am /Ê sat-sun: 10am-2am
+3,American,Hardrock Cage,2,no,no,https://www.hardrockcafe.com/location/washington-dc/files/5513/M15.pdf,mon-sun: 11am-8pm
+3,American,The Capitol Burger,1.7,no,no,https://www.thecapitalburger.com/menus?setRestaurant=3400&cmpid=br:tcb_ag:ie_ch:loc_ca:TCBGMB_sn:gmb_gt:washington-dc-3400_pl:menu_rd:1001,sun-thurs: 11am-9pm /Ê fri-sat: 11am-10pm
+3,American,Yard House,1.9,no,no,https://www.yardhouse.com/menus?setRestaurant=8376&cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:washington-dc-8376_pl:menu_rd:1071,sun-thurs: 11am-12am /Ê fri-sat: 11am-2am
+3,Chinese,Wok and Roll,1.7,no,no,http://www.wokandrolldc.com/,mon-tues: 11am-10pm /Ê wed; sun: 11am-1am /Ê thurs-sat: 11am-2am
+3,Chinese,Mr. Chen's Organic Chinese Cuisine,2.1,no,no,https://www.trycaviar.com/store/mr--chen-s-organic-chinese-cuisine-washington-4853/en-US,mon-thurs: 11am-10:30pm /Ê fri-sat: 11am-11pm /Ê sun: 12-10pm
+3,Chinese,Little China CafŽ,2.6,no,no,https://www.littlechinacafewashington.com/,mon-thurs: 11am-10pm /Ê fri-sat: 11am-11pm /Ê sun: 12-10pm
+3,Chinese,Fortune Express,3,no,no,http://www.fortuneexpresswashingtondc.com/?utm_source=gmb&utm_medium=menu,mon-sat: 11am-11pm /Ê sun: 12-11pm
+3,Chinese,Annie Chen's Sushi Bar and Grill,3,no,no,http://www.youngchowdc.com/?utm_source=gmb&utm_medium=menu,mon-sun: 11am-10pm
+3,Japanese,Sushi Capitol,3,no,no,http://www.sushicapitol.com/,mon-fri: 12-8:30pm /Ê sat: 5-9pm /Ê sun: closed
+3,Japanese,Wok and Roll,1.7,no,no,http://www.wokandrolldc.com/,mon-tues: 11am-10pm /Ê wed; sun: 11am-1am /Ê thurs-sat: 11am-2am
+3,Japanese,Sushi Keiko,1.5,no,no,https://sushikeiko.com/online-order,mon: 4:30-8:30pm /Ê tues-thurs: 11:30am-8:30pm /Ê fri: 11:30am-9pm /Ê sat: 4:30-9pm /Ê sun: closed
+3,Japanese,Kintaro,2.7,no,no,http://places.singleplatform.com/kintaro-3/menu?ref=google,mon: closed /Ê tues-sun: 12-2:30pm; 5-9pm
+3,Japanese,Umi Japanese Cuisine,2.8,no,no,http://www.umijapanesecuisine.com/?utm_source=gmb&utm_medium=menu,mon-sun: 11:30am-4pm; 5-10pm
+3,Korean,SeoulSpice,2.5,no,no,https://www.seoulspice.com/pickup,wed-mon: 11am-10-m /Ê tues: 11am-3pm
+3,Korean,taKorean,2.9,no,no,http://takorean.com/menu,mon-sun: 11am-9pm
+3,Korean,Iron Age,2,no,no,https://ironagech.wixsite.com/ironagedc,mon-thurs: 4pm-12am /Ê fri-sun: 11am-12am
+3,Korean,Kaliwa,2.3,no,no,https://qrcodes.pro/2iO42L?preview=true,sun-thurs: 11:30am-9pm /Ê fri-sat: 11:30am-10pm
+3,Korean,Bom,1.2,no,no,https://bom-koreanrestaurant.business.site/,mon; wed-thurs: 5-10pm /Ê tues: closed /Ê fri-sat: 12-11:30pm /Ê sun:12:30-9pm
+3,Italian,RPM Italian DC,1.6,no,no,https://www.rpmrestaurants.com/rpm-italian-d-c/menus/,mon-thurs: 12-9pm /Ê fri: 12-10pm /Ê sat: 3-10pm /Ê sun: 3-9pm
+3,Italian,Cucina Al Volo,2.9,no,no,http://places.singleplatform.com/cucina-al-volo/menu?ref=google,mon-sun: 11am-8pm
+3,Italian,San Lorenzo Ristorante + Bar,1.5,no,no,https://www.sanlorenzodc.com/menu,mon-thurs: 11am-2:30pm; 5:30-9:45pm /Ê fri-sat: 11am-2:30pm; 5-10:30pm /Ê sun: 5-9pm
+3,Italian,Mamma Ilardo Pizza,2.1,no,no,https://slicelife.com/restaurants/dc/washington-dc/20024/mamma-ilardo-s-pizza/menu?utm_source=gmb_menu,mon-fri: 6am-4pm /Ê sat-sun: closed
+3,Italian,Kouzina Angelina Pizzeria,1.7,no,no,https://www.doordash.com/store/kouzina-angelinas-pizzeria---shaw-dc-washington-901492/,mon-tues: closed /Ê wed-thurs: 7pm-3am /Ê fri-sat: 6pm-4am /Ê sun: 6pm-3am
+3,Mexican,Taqueria Habanero,2.4,no,no,http://taqueriahabanero.com/,mon-sun: 11am-10pm
+3,Mexican,El Pollo Sabroso,2,no,no,https://www.allmenus.com/dc/washington/379612-el-pollo-sabroso/menu/,sun-thurs: 10am-10pm /Ê fri-sat: 10am-11pm
+3,Mexican,El Camino,2.2,no,no,http://www.elcaminodc.com/,mon: 5-10pm /Ê tues-thurs: 5-10:30pm /Ê fri: 5-11:30pm /Ê sat: 12-11:30pm /Ê sun: 12-10pm
+3,Mexican,Laredo DC Restaurant,2.1,no,no,http://www.laredodcrestaurant.com/menu.html,sun-thurs: 11am-10:30pm /Ê fri-sat: 11am-12am
+3,Mexican,Mayahuel Cocina Mexicana,2.7,no,no,https://www.toasttab.com/mayahuel-cocina-mexicana/v3/?mode=fulfillment,mon: closed /Ê tues-thurs: 4-9pm /Ê fri: 4-10pm /Ê sat: 12-10pm /Ê sun: 12-8pm
+3,Thai,Sala Thai Rhode Island Row,3.2,no,no,http://www.salathairisland.com/,mon-thurs: 11:30am-9pm /Ê fri: 11:30am-9:30pm /Ê sat: 12-9:30pm /Ê sun: 12am-9pm
+3,Thai,Imm Thai on H,3,no,no,https://www.toasttab.com/imm-on-h/v2/online-order#!/order,mon-sun: 11am-8pm
+3,Thai,Sabydee,1.9,no,no,http://places.singleplatform.com/sabydee-restaurant/menu?ref=google,mon: closed /Ê tues-sun: 11am-3:30pm; 5-10pm
+3,Thai,Talay Thai,2.9,no,no,https://www.talaythaidconline.com/,mon-fri: 11:30am-3pm; 4:30-9:30pm /Ê sat: 12-9:30pm /Ê sun: closed
+3,Thai,Thai X-ing,1.7,no,no,http://www.thaix-ing.com/menu/,mon: closed /Ê tues-sun: 5-8:30pm
+3,Indian,Spice Kraft Indian Bistro,2.7,no,no,https://www.spicekraftva.com/menu-clarendon,sun-thurs: 11:30am-2:30pm; 5-9pm /Ê fri-sat: 11:30am-2:30pm; 5-9:30pm
+3,Indian,Jyothi Indian Cuisine,1.2,no,no,http://www.jyotidc.com/,mon: closed /Ê tues-thurs; sun: 12-10pm /Ê fri-sat: 12-11pm
+3,Indian,Masala Art Indian Restaurant,2.6,no,no,https://www.masalaartdc.com/tenleytown-menu/,mon-sat: 5-9:30pm /Ê sun: 11:30am-2:30pm; 5-9:30pm
+3,Indian,Indigo,2.7,no,no,http://www.indigowdc.com/menu-1,mon-fri: 11am-9pm /Ê sat: 3-10pm /Ê sun: closed
+3,Indian,Indique,2.1,no,no,https://order.online/store/Indique-4057/en-US/?hideModal=true&pickup=true,sun-thurs: 5-9pm /Ê fri-sat: 5-9:30pm
+3,Mediterranean,Shawarma Hut,2.6,no,no,http://places.singleplatform.com/shawarma-hut-0/menu?ref=google,sun-thurs: 12-11pm /Ê fri-sat: 12pm-12am
+3,Mediterranean,Athena Grill,3,no,no,http://www.athenagrilldc.com/?utm_source=gmb&utm_medium=menu,mon-sun: 11am-11pm
+3,Mediterranean,Shemalis,2.6,no,no,https://www.shemalisinc.com/,mon: 10pm-12am /Ê tues: 12am-7pm /Ê wed; fri-sat: 10am-7pm /Ê thurs: 10am-2pm /Ê sun: 10am-6pm
+3,Mediterranean,CafŽ Fili,2.6,no,no,https://www.toasttab.com/cafe-fili-dc,sun-thurs: 11am-9pm /Ê fri-sat: 11am-10pm
+3,Mediterranean,Fresh Med,2,no,no,https://www.freshmed-dc.com/menu.shtml,mon-sat: 11am-10pm /Ê sun: 11am-9pm
+5,American,Green Pig Bistro,3.3,no,no,https://drive.google.com/file/d/16iWGosddiDp_3QCjhNnkULHrP5okG0GT/view,Sun: 10AM-9PM; 4PM-9PM; Tu-Th: 11-9PM; F: 11AM-10PM; Sat: 10AM-10PM
+5,American,Silver New American Brasserie,3.7,no,no,https://eatatsilver.com/sites/default/files/sil.menu_10_20_dinner.pdf,Sun-Th: 7AM-11PM; F-Sat: 7AM-12AM
+5,American,Ted's Montana Grill,4.4,no,no,https://www.tedsmontanagrill.com/menu.html,Sun-Th: 11AM-9PM; F-Sat: 11AM-10AM
+5,American,15th & Eads,4,no,no,https://www.zmenu.com/15th-and-eads-arlington-online-menu/,Sun-Sat: 6AM-12AM
+5,American,Clyde's of Chevy Chase,5,no,no,https://www.clydes.com/chevy-chase-menu/,Sun-Th: 11AM-1AM; F-Sat: 11AM-2AM
+5,Chinese,Bar Bao,4,no,no,https://drive.google.com/file/d/1ZtUQ9bQkiY-_mo6DuCMx8lRVDmOTbZpV/view,M-F: 4PM-1:30AM; Sat-Sun: 11AM-1:30AM
+5,Chinese,Young Chow,4.6,no,no,https://www.youngchowdc.com/menu.aspx,Sun: 11:30AM-10PM; M: CLOSED; Tu-Th: 11AM-10PM; F-Sat: 11AM-11PM
+5,Chinese,Mrs. Chen's Kitchen,4.8,no,no,https://www.mrschensarlington.com/menu,Sun-Th: 11AM-9:30PM; F-Sat: 11AM-10:30PM
+5,Chinese,P.F. Chang's,4.8,no,no,https://www.pfchangs.com/menu,Sun-Th: 11AM-10PM; F-Sat: 11AM-11PM
+5,Chinese,Hunan Gate,4.3,no,no,https://hunangate.com/menu,Sun-Sat: 11AM-10PM
+5,Japanese,Kotobuki,4.5,no,no,https://www.kotobukidc.com/dinner,Sun: 4:30PM-9PM; M: CLOSED; Tu-Sat:12PM-9PM
+5,Japanese,Maneki Neko Express,4.3,no,no,http://mneko.com/#fc,M-F: 11:30AM-9PM; Sat-Sun: 12PM-9PM
+5,Japanese,Endo Sushi,4.9,no,no,https://endosushi.com/,M: CLOSED; Tu-Th: 4PM-9PM; F-Sun: 12PM-9PM
+5,Japanese,Raku,3.6,no,no,https://www.rakuasiandining.com/menu,M-F: 11:30AM-9PM; Sat-Sun: 12PM-9PM; F-Sun: 12PM-9PM
+5,Japanese,AKO by KENAKI,4.8,no,no,https://www.theroostsedc.com/akobykenaki,M-F: 4PM-10PM; Sat-Sun: 12PM-10PM
+5,Korean,BAB Korean Fusion,4.8,no,no,https://www.babdc.com/menu,M-Sat: 11AM-9PM; Sun: CLOSED
+5,Korean,Gyu-Kaku Japanese BBQ,4.5,no,no,https://www.gyu-kaku.com/locations-menus/,M-Tu: 5PM-9:30PM; W-Th: 11:30AM-9:30PM; F-Sun: 11:30AM-10PM
+5,Korean,Bun'd Up,3.8,no,no,https://www.bundup.com/order,Sun-W: 11AM-8PM; Th: CLOSED; F-Sat: 11AM-9PM
+5,Korean,Bonchon Arlington,3.7,no,no,https://bonchon.com/menu,Sun-Th: 11AM-9:30PM; F-Sat: 11AM-11PM
+5,Korean,BangBop,4.3,no,no,https://www.bangbop.com/menu,Sun-Sat: 11AM-7PM
+5,Italian,Mazaro,4.3,no,no,https://www.mazarova.com/mazaros-delicious-menu/,M-W: 3PM-10PM; Th-Sun: 10AM-10PM
+5,Italian,Paisano's,3.7,no,no,https://paisanospizza.com/menu/,Sun-Sat: 11AM-9PM
+5,Italian,DeCarlo's,4.9,no,no,http://www.decarlosrestaurant.com/services.html,Sun-Sat: 5:30PM-10PM
+5,Italian,Mario's Pizza House,4.7,no,no,https://www.mariospizzahousemenu.com/,M-Sat: 10:30AM-7:30PM; Sun: CLOSED
+5,Italian,Il Radicchio,3.1,no,no,https://ilradicchio.com/menu/,M: CLOSED; Tu-Sun: 4:30-9PM
+5,Mexican,TTT Clarendon,4.3,no,no,https://www.tttrestaurant.com/menu,M-Th: 4-10PM; F: 11AM-2AM; Sat: 10AM-2AM; Sun: 10AM-10PM
+5,Mexican,Muchas Gracias,4.9,no,no,https://www.muchasgraciasdc.com/menus,Sun-Sat: 11AM-9PM
+5,Mexican,Cactus Cantina,3.8,no,no,https://www.cactuscantina.com/menus/,Sun-Th: 11:30AM-10PM; F-Sat: 11:30AM-11PM
+5,Mexican,Guajillo,3.2,no,no,https://guajillomexican.com/,M-W: 2:30PM-9PM; Th-Sun: 12PM-10PM
+5,Mexican,Don Tito,4.5,no,no,https://dontitova.com/dining-menu,M-F: 11AM-2AM; 10:30AM-2AM
+5,Thai,Sawatdee Thai,3.5,no,no,https://www.sawatdeeva.com/menu,M-Th: 11:30AM-9:30PM; F-Sun: 12PM-10PM
+5,Thai,Rincome Thai,4.7,no,no,https://www.rincomethai.com/menus/,M-Th: 4PM-9PM; F-Sun: 12PM-10PM
+5,Thai,Urban Thai,4.4,no,no,https://www.urbanthaiva.com/,Sun-Sat: 11AM-9:30PM
+5,Thai,Thaiphoon,3.8,no,no,https://www.thaiphoondupont.com/menus/,Sun-Sat: 12PM-10PM
+5,Thai,Thai Pad,4.4,no,no,http://www.thaipaddc.com/menu-2/,M-Th: 11AM-9PM; F-Sun: 11:30AM-9:30PM
+5,Mediterranean,Mejana,3.5,no,no,https://mejanarestaurant.com/dinner-menu/,Sun-Sat: 11AM-9:30PM
+5,Mediterranean,Mele Bistro,3.2,no,no,https://www.melebistro.com/menu-content,Sun-Sat: 4:30PM-10PM
+5,Mediterranean,Kabob Bazaar,4.4,no,no,https://www.kabobbazaar.com/menu,Sun-Sat: 11AM-10PM
+5,Mediterranean,Mezeh,4.5,no,no,https://mezeh.com/menu/,Sun-Sat: 11AM-10PM
+5,Mediterranean,Caspi Restaurant,4.6,no,no,http://places.singleplatform.com/caspi-restaurant-and-lounge/menu?ref=google,Sun-Sat: 11AM-10PM
+5,Indian,Heritage India,3.5,no,no,https://www.heritageindiaindc.com/dinner-menu,Sun-Sat: 11AM-9PM
+5,Indian,Delhi Dhaba,3.5,no,no,https://www.delhidhaba.com/menu,M: CLOSED; Tu-Th: 4PM-10PM; F-Sun: 11AM-10PM
+5,Indian,Urban Tandoor,4.2,no,no,https://utandoorva.com/menu,Sun-Sat: 11:30AM-9:30PM
+5,Indian,Bombay Street Food 2,4.3,no,no,https://www.bombaystreetfood.us/our-menu.php,Sun-Sat: 12PM-10PM
+5,Indian,Bollywood Bistro,5,no,no,http://bollywoodbistro.com/online-menu,Sun-Sat: 11:30PM-10:30PM
+10,American,Brickside Food & Drink,8.2,no,no,https://bricksidebethesda.com/brickside_menus/dinner/,M: CLOSED; Tu-Th: 3PM-12AM; F-Sat: 12PM-1AM; Sun: 12PM-12AM
+10,American,Carlyle,6.8,no,no,https://carlyleva.com/cs/Home/ViewMenu?m=9-Dinner.pdf,Sun-Sat: 11AM-11PM
+10,American,Rustico,8.1,no,no,https://rusticoballston.menu/,Sun-Th: 11:30AM-9PM; F-Sat: 11:30AM-11PM
+10,American,Woodmont Grill,8.3,no,no,https://woodmontgrill.com/menu/#,Sun-Sat: 12PM-9PM
+10,American,Busboys and Poets,7.3,no,no,https://www.busboysandpoets.com/menu/lunch-dinner-menu/,Sun-Sat: 9AM-10PM
+10,Chinese,Hong Kong Palace,9.1,no,no,https://www.hongkongpalacefallschurch.com/menu.aspx,Sun-Sat: 11AM-9:30PM
+10,Chinese,No. 1 China,8.3,no,no,https://www.no1chinatakomapark.com/menu.aspx,M: CLOSED; Tu-Sun: 11AM-10PM
+10,Chinese,Mandarin Restaurant,8.8,no,no,https://www.mandarinrestaurant.com/dine-in/,M:CLOSED; Tu-Th: 11AM-11PM; F-Sun: 11AM-11:30PM
+10,Chinese,Banana Leaves,8,no,no,https://www.bananaleavesasiancafe.com/menu.aspx,M-F: 11:30AM-9PM; Sat-Sun: 4PM-9PM
+10,Chinese,Peking Pavilion,8.3,no,no,http://www.pekingpavilion.com/,Sun-Sat: 11AM-9PM
+10,Japanese,Satsuma,8.2,no,no,http://www.satsumajp.com/menu.html,Sun-Sat: 11AM-10PM
+10,Japanese,Yume Sushi,7.9,no,no,https://www.yumesushiva.com/menus/,M-W: 4PM -10PM; Th: 4PM-11PM; F: 4PM-12AM; Sat: 12PM-12AM; Sun: 12AM-10PM
+10,Japanese,Yamazato,9.5,no,no,http://www.yamazato.net/menu,M-Sat:Ê 11:30AM-10:30PM; Sun: 5PM-9:30PM
+10,Japanese,Ikko Sushi,8.8,no,no,https://ikkosushi.com/pannels/staticContent/ODA3/MjUx/MzY3NQ/FULL%20MENU,Sun-M: 4PM-10PM; Tu-F: 11AM-10PM; Sat: 12PM-10PM
+10,Japanese,Benihana,8,no,no,https://www.benihana.com/menu/teppanyakidining/,Sun-Sat: 11AM-10PM
+10,Korean,House of MILAE,8.3,no,no,http://www.houseofmilae.com/menu/,Sun-Sat: 4:30PM-10PM
+10,Korean,Ju Mak Jip,10,no,no,https://www.allmenus.com/va/alexandria/670265-ju-mak-jib/menu/,W-M: 12PM-10PM; Tu:CLOSED
+10,Korean,Firepan Korean BBQ,8.4,no,no,https://firepankbbq.com/#menu,Sun-Sat: 3PM-12AM
+10,Korean,Seoul Food,8.5,no,no,https://www.seoulfooddc.com/home/menu,Sun-M:CLOSED; T-Sat: 4:30PM-8:30PM
+10,Korean,BIBIBOP,9,no,no,https://www.bibibop.com/menu/,Sun-Sat: 10:30AM-9:30PM
+10,Italian,Olazzo,8.2,no,no,https://www.olazzo.com/food,M-Tu: 4PM-9:30PM; W-Sun: 11:30AM-10PM
+10,Italian,Assaggi Osteria,9.5,no,no,https://www.assaggiosteria.com/menu/assaggi-osteria/,Sun-Sat: 5PM-9PM
+10,Italian,Osteria da Nino,6.8,no,no,https://www.osteriadaninova.com/menus/,Sun-Sat: 4PM-10PM
+10,Italian,Pistone's Italian Inn,8.6,no,no,https://www.pistoneitalianinn.com/our-menu,Sun-Sat: 11AM-11PM
+10,Italian,Vicino,8.6,no,no,https://slicelife.com/restaurants/md/silver-spring/20910/vicino-restaurante-italiano/menu?direct_web_menu=true&utm_campaign=direct_websites,Sun: 1PM-9:30PM; M-Sat: 11:30AM-10PM
+10,Mexican,Uncle Julio's,9.3,no,no,https://unclejulios.com/locations/bethesda-row/,Sun-Sat: 11AM-10PM
+10,Mexican,Los Toltecos,9.7,no,no,https://www.lostoltecosalexandria.com/menu,M-Sat: 12PM-10PM; Sun: 12PM-8PM
+10,Mexican,Tortas Y Tacos La Chiquita,6.2,no,no,https://www.toasttab.com/tortas-y-tacos-la-chiquita-2911-columbia-pike/v3/?mode=fulfillment,Sun-Sat: 9AM-10PM
+10,Mexican,Tequila & Taco,9.4,no,no,https://alxhgr.com/HGR-All-Logos-04_TNTMENU.pdf,Sun-Th: 11AM-9:30PM; F-Sat: 11AM-10PM
+10,Mexican,Cielo Rojo,8.5,no,no,https://www.cielo-rojo.com/covid-19-updates,M: 3PM-9PM; Tu-F: 11:30AM-9:30PM; Sat-Sun: 9AM-9:30PM
+10,Thai,Kao Thai,9.1,no,no,http://www.kaothairestaurant.com/Menu.html,Sun-Sat: 11AM-10PM
+10,Thai,Kin Da,7.8,no,no,https://kindatakoma.com/wp-content/uploads/2021/07/Carryout.pdf,M-F: 11:30AM-8:15PM; Sat-Sun: 12PM-8:15PM
+10,Thai,Thai Orchid's Kitchen,8.3,no,no,https://www.thaiorchids2314.com/,M:CLOSED; Tu-Th: 11AM-9PM; F-Sun: 11AM-9:30PM
+10,Thai,Pasara Thai,9.4,no,no,http://www.pasarathairestaurant.com/menu.html,M-F: 11:30AM-9PM; Sat-Sun: 12PM-9PM
+10,Thai,Thai Peppers,6.6,no,no,https://www.thaipeppersva.com/menu/alexandria/,M: CLOSED; Tu-F: 11AM-9PM; Sat: 12PM-9PM; Sun: 5PM-9PM
+10,Mediterranean,Vaso's Kitchen,8.3,no,no,https://vasos-kitchen.com/,Sun-M: CLOSED; Tu-Sat: 11AM-10PM
+10,Mediterranean,Al-Quds,9.8,no,no,https://www.jerusalem-va.net/menu/,Sun-F: 10AM-9PM; Sun: 11AM-5PM
+10,Mediterranean,Talia's Cuzina,10,no,no,https://www.taliascuzina.com/menu,M-Sat: 10AM-7PM; Sun: CLOSED
+10,Mediterranean,Maya Bistro,6.8,no,no,https://bistromaya.com/menu/,Sun-Sat: 11AM-10PM
+10,Mediterranean,The Great Greek Mediterranean Grill,8.3,no,no,https://www.thegreatgreekgrill.com/menu,Sun-Sat: 11AM-9PM
+10,Indian,Raaga,8.6,no,no,https://www.raagarestaurant.com/,Sun-Sat: 12PM-9:30PM
+10,Indian,Namaste Jalsa,8.7,no,no,http://www.namastejalsamenus.com/#/restaurants/147108/10036,Sun-Sat: 11:30AM-10PM
+10,Indian,Passage to India,8,no,no,http://www.passagetoindia.info/menu,W-Sun: 11:30AM-9:30PM; Tu: CLOSED
+10,Indian,Ghar-E-Kabab,9.1,no,no,https://www.gharekabab.com/,Tu-Sun: 11:30AM-9PM; M: CLOSED
+10,Indian,Kadhai,8.1,no,no,https://kadhai.com/menu.php,Sun-Sat: 11:30AM-9PM

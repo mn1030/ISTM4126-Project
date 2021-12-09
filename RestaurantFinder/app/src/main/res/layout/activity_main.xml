@@ -47,7 +47,7 @@
             android:trackTint="#f00"
             android:textOn="GWorld"
             android:textOff="Other Payment"
-            android:onClick="switchClick"/>
+            android:onClick="switchOnClick"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -106,6 +106,8 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="7dp"
         android:layout_marginTop="20dp"
+        android:divider="#FFFFFF"
+        android:dividerHeight="1dp"
         android:background="@drawable/restaurant"
         >
 

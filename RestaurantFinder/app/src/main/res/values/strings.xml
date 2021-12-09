@@ -14,5 +14,7 @@
 
     </string-array>
 
+    <string name="restaurantfinder">ListDisplay</string>
+    <string name="action_settings">Settings</string>
 
 </resources>

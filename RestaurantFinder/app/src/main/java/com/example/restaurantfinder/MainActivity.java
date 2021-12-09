@@ -25,14 +25,15 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     private Button searchButton;
-    private DBHandler dbHandler;
+
 
     //references for programmatically manipulated features
     private static boolean use_gWorld;
     private static String cuisine;
     private static int maxDist = 5;
 
-    private List<Restaurant> restaurantEntries= new ArrayList<>(); //this will list the search results restaurants
+    private List<Restaurant> restaurantEntries= new ArrayList<>(); //this will store the search results restaurants
+    private String [] restaurantNames = new String[0]; //this will list the search results in layout
 
     private TextView distTextView;
     private ListView lv;
@@ -48,14 +49,6 @@ public class MainActivity extends AppCompatActivity {
 
         //get references from manipulated filters
 
-        Switch gWorld = (Switch) findViewById(R.id.gworld_switch); //GWORLD SWITCH
-
-        if (gWorld.isChecked()){
-            use_gWorld = false; //other payment
-        }
-        else{
-            use_gWorld = true;
-        }
 
         Spinner cuisType = (Spinner) findViewById(R.id.types); //SPINNER
         cuisine = String.valueOf(cuisType.getSelectedItem()); //SAVE OUR CUISINETYPE!!
@@ -67,10 +60,23 @@ public class MainActivity extends AppCompatActivity {
         //distTextView.setText(maxDist+ " miles from Duques");
 
         lv = (ListView) findViewById(R.id.restaurantList); //OUR LISTVIEW
+        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, R.layout.activity_listview, R.id.textView, restaurantNames);
+        lv.setAdapter(arrayAdapter);
 
 
-        //ArrayAdapter arrayAdapter = new ArrayAdapter(this,android.R.layout.restaurantList, restaurantEntries);
+    }
 
+    public void switchOnClick(View view){
+        TextView payment = (TextView) findViewById(R.id.payment_method);
+        Switch gWorld = (Switch) findViewById(R.id.gworld_switch); //GWORLD SWITCH
+        if (gWorld.isChecked()){
+            use_gWorld = false; //other payment
+            payment.setText("Other\npayment");
+        }
+        else{
+            use_gWorld = true;
+            payment.setText("GWorld\n");
+        }
     }
 
     //listener object for the SeekBar's progress changed events
@@ -157,7 +163,12 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 if (addEntry == true){
+                    //add entry to Restaurant list
                     restaurantEntries.add(entry);
+
+                    //add restaurant name to name list
+                    restaurantNames = addNew(restaurantNames, entry.getName());
+
                 }
 
                 Log.d("MyActivity", "Just created: " + entry);
@@ -167,6 +178,18 @@ public class MainActivity extends AppCompatActivity {
             }
 
         }
+    }
+
+
+    //METHOD TO ADD NEW ELEMENT TO OUR NAME LIST
+    public String [] addNew(String arr[], String x){
+        String newarr[] = new String[arr.length+1];
+
+        for (int i = 0; i < arr.length; i++){ //copy old array
+            newarr[i] = arr[i];
+        }
+        newarr[newarr.length] = x;
+        return newarr;
     }
 
 
